@@ -1,0 +1,50 @@
+{
+    "Profile": {
+        "Name": "",
+        "Height": "",
+        "Weight": "",
+        "Wingspan": "",
+        "Position": "",
+        "Birthdate": "",
+        "Nationality": ""
+    },
+    "Statistics": {
+        "Points Per Game (PPG)": 0,
+        "Field Goal Percentage (FG%)": 0,
+        "Three-Point Percentage (3P%)": 0,
+        "Free Throw Percentage (FT%)": 0,
+        "Assists Per Game (APG)": 0,
+        "Turnovers Per Game (TOV)": 0,
+        "Rebounds Per Game (RPG)": 0,
+        "Offensive Rebounds Per Game (ORB)": 0,
+        "Defensive Rebounds Per Game (DRB)": 0,
+        "Steals Per Game (SPG)": 0,
+        "Blocks Per Game (BPG)": 0,
+        "Effective Field Goal Percentage (eFG%)": 0,
+        "Player Efficiency Rating (PER)": 0
+    },
+    "Background": {
+        "College": "",
+        "High School": "",
+        "Work Ethic": "",
+        "Mentality": ""
+    },
+    "Report": {
+        "Strength": "",
+        "Weakness": "",
+        "Rating": {
+            "Athleticism": 0,
+            "Size": 0,
+            "Offense": 0,
+            "Defense": 0,
+            "Strength": 0,
+            "Quickness": 0,
+            "Shooting": 0,
+            "Passing": 0,
+            "Ball Handling": 0,
+            "Potential": 0
+        },
+        "NBA Comparison": "",
+        "Mock Draft": 0
+    }
+}
