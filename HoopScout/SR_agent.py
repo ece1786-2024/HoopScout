@@ -27,8 +27,8 @@ def SR_agent_response(player_info, existing_players):
 
 if __name__ == "__main__":
     # unit test
-
-    player_info = []
+    with open('data/Test.json', 'r') as file:
+        player_info = json.load(file)
 
     with open('data/Reed_Sheppard.json', 'r') as file:
         existing_players = json.load(file)
