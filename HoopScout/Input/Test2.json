@@ -1,0 +1,32 @@
+{
+    "Profile": {
+        "Name": "Kobe Henderson",
+        "Height": "6'2\"",
+        "Weight": "195 lbs",
+        "Wingspan": "6'9\"",
+        "Position": "Point Guard",
+        "Birthdate": "February 3, 2004",
+        "Nationality": "American"
+    },
+    "Statistics": {
+        "Points Per Game (PPG)": 16.5,
+        "Field Goal Percentage (FG%)": 42.9,
+        "Three-Point Percentage (3P%)": 27.5,
+        "Free Throw Percentage (FT%)": 76.4,
+        "Assists Per Game (APG)": 6.5,
+        "Turnovers Per Game (TOV)": 3.5,
+        "Rebounds Per Game (RPG)": 5.4,
+        "Offensive Rebounds Per Game (ORB)": 1.1,
+        "Defensive Rebounds Per Game (DRB)": 4.3,
+        "Steals Per Game (SPG)": 1.1,
+        "Blocks Per Game (BPG)": 0.5,
+        "Effective Field Goal Percentage (eFG%)": 45.0,
+        "Player Efficiency Rating (PER)": 18.0
+    },
+    "Background": {
+        "Professional Career": "In 2021, at the age of 17, Henderson made the decision to forgo his senior year of high school and college eligibility to sign with the NBA G League Ignite, becoming the youngest player in G League history. Over two seasons with the Ignite, he showcased his skills, averaging 14.3 points, 4.8 rebounds, and 4.2 assists per game in his first season, and 17.6 points, 5.1 rebounds, and 6.4 assists per game in his second season.",
+        "High School": "Henderson attended Carlton J. Kell High School in Marietta, where he emerged as a standout basketball player. During his junior year, he averaged 32 points, 7 rebounds, and 6 assists per game, earning the title of 6A Player of the Year.",
+        "Work Ethic": "Known for rigorous training and commitment to improving all facets of his game.",
+        "Mentality": "Displays a competitive spirit with a focus on leadership and team success."
+    }
+}
