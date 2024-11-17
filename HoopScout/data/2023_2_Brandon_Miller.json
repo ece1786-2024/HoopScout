@@ -1,0 +1,52 @@
+{
+    "Profile": {
+        "Name": "Brandon Miller",
+        "Height": "6'9\"",
+        "Weight": "200 lbs",
+        "Wingspan": "7'0\"",
+        "Position": "Small Forward",
+        "Birthdate": "November 22, 2002",
+        "Nationality": "American"
+    },
+    "Statistics": {
+        "Points Per Game (PPG)": 18.8,
+        "Field Goal Percentage (FG%)": 43.0,
+        "Three-Point Percentage (3P%)": 38.4,
+        "Free Throw Percentage (FT%)": 85.9,
+        "Assists Per Game (APG)": 2.1,
+        "Turnovers Per Game (TOV)": 2.0,
+        "Rebounds Per Game (RPG)": 8.2,
+        "Offensive Rebounds Per Game (ORB)": 1.0,
+        "Defensive Rebounds Per Game (DRB)": 7.2,
+        "Steals Per Game (SPG)": 0.9,
+        "Blocks Per Game (BPG)": 0.9,
+        "Effective Field Goal Percentage (eFG%)": 53.3,
+        "Player Efficiency Rating (PER)": 23.4
+    },
+    "Background": {
+        "College": "University of Alabama",
+        "High School": "Cane Ridge High School, Antioch, TN",
+        "Work Ethic": "Known for his dedication and consistent improvement throughout his college career.",
+        "Mentality": "Competitive and unselfish, willing to make the right play and take big shots in crucial moments."
+    },
+    "Report": {
+        "Strength": "An extremely talented 6’9 SF/PF with a lanky frame and very good length and athleticism … Has an intriguing scoring arsenal (leads all Fr with 18.8 ppg while shooting 45% from the field) … Can shoot over many wings due to his size and can also operate in the mid-range and occasionally in the post as well … A sniper from distance (44 3FG% on 7 attempts per game) with a quick release and range well past the NBA 3-point line whether spotting up, through screens or pulling up off the dribble … His size on the perimeter makes him effective at sticking contested shots … Has times when he can really get hot and take over games; as of now Miller has made 5 or more 3s in a game 5 times this season … Handles the ball adequately and is a threat creating offense for himself; needs little space to get his shots off … Makes good use of combo dribbles to free himself in the mid-range … Excellent transition player; runs the floor well and is an above the rim finisher in the open court … Versatility allows him to play as a SF or a ‘smallball’ PF … Good rebounding skills (8.2 rpg) and is much more physical than his slender frame would suggest … Competes on the defensive end and is able to guard effectively on the perimeter and along the frontcourt as well … Length and awareness allows him to be a pest shooting into passing lanes at times (1.1 spg), and he offers some resistance as a help side defender by swatting shots occasionally (nearly 1 bpg) … Unselfish player who’s willing to give the ball to open teammates … Makes hustle plays and works to get himself back in the action when out of position … Not afraid to take big shots down the stretch of games … Draws fouls at a decent rate and is solid when he gets there (82 FT% on 4.5 FTA per game) …",
+        "Weakness": "Though he has solid athleticism, he lacks great burst and explosiveness … Sometimes has a hard time separating off the dribble and has to take contested shots … Doesn’t get to the rim that much in half court offense … Nothing more than decent as a leaper, and Miller doesn’t convert amongst the trees at a great rate (46 FG% inside the arc) … Needs to add some muscle to his frame; not great at finishing through contact at the moment … At times falls in love with the jump shot; can stand to improve on picking his spots … Could look to add a little more arch to his shot which can be flat … Has moments when aggressive pressure throws him off his game, but he usually does a good job adjusting to the defense … Won’t realize his true defensive potential until he adds the muscle needed to defend bigger PFs … Willing to pass the ball, but isn’t much of a playmaker for others and is more so wired to score … Tough to see him posting up much at the NBA level given his lack of strength currently; can use his size to his advantage down low in college at times but that will be more difficult against longer NBA defenders … Will be 21 years old as a rookie; is older than your typical one-and-done prospect …",
+        "Rating": {
+            "Athleticism": 9,
+            "Size": 9,
+            "Defense": 8,
+            "Strength": 8,
+            "Quickness": 8,
+            "Leadership": 7,
+            "Jump Shot": 7,
+            "NBA Ready": 8,
+            "Ball Handling": 7,
+            "Potential": 9,
+            "Passing": 8,
+            "Intangibles": 7
+        },
+        "NBA Comparison": "Paul George",
+        "Mock Draft": 2
+    }
+}
