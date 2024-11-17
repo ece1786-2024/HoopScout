@@ -1,0 +1,53 @@
+{
+    "Profile": {
+        "Name": "Jett Howard",
+        "Height": "6'8\"",
+        "Weight": "215 lbs",
+        "Wingspan": "Not specified",
+        "Position": "Shooting Guard",
+        "Birthdate": "September 14, 2003",
+        "Nationality": "American"
+    },
+    "Statistics": {
+        "Points Per Game (PPG)": 14.2,
+        "Field Goal Percentage (FG%)": 41.4,
+        "Three-Point Percentage (3P%)": 36.8,
+        "Free Throw Percentage (FT%)": 80.0,
+        "Assists Per Game (APG)": 2.0,
+        "Turnovers Per Game (TOV)": 1.3,
+        "Rebounds Per Game (RPG)": 2.8,
+        "Offensive Rebounds Per Game (ORB)": 0.3,
+        "Defensive Rebounds Per Game (DRB)": 2.6,
+        "Steals Per Game (SPG)": 0.4,
+        "Blocks Per Game (BPG)": 0.7,
+        "Effective Field Goal Percentage (eFG%)": 53.2,
+        "Player Efficiency Rating (PER)": 16.7
+    },
+    "Background": {
+        "College": "University of Michigan",
+        "High School": "IMG Academy",
+        "Work Ethic": "Demonstrates a strong work ethic, evident in significant improvements from freshman to sophomore year.",
+        "Mentality": "High basketball IQ with a patient approach; takes care of the ball and plays to his strengths."
+    },
+    "Report": {
+        "Strength": "Howard is a physically gifted swingman who stands a legitimate 6’8 215 with a good frame that should have little problems matching up on the wing at the pro level … Floor spacer; likes to shoot the ball from the perimeter and is promising at doing so (35 3FG% on a healthy 7.3 attempts per game in the regular season as a Fr.) with his confidence, range and touch … Has a high and compact shot release that looks good leaving his hands more often than not … Moves well without the ball and can be dangerous hitting shots when navigating screens and handoffs … Also has shown the ability to use subtle stepback and jab step moves off the dribble to free himself to create space for deep shots … Has proven to be an effective shooter from the mid-range area as well, whether going downhill for pull-ups after being chased off the line or utilizing runners … Possesses a good feel for knowing when to pass or shoot; plays patient, shows solid floor vision and generally takes what the defense gives him … Effective pick and roll player who prefers to shoot as opposed to attacking the paint, but also can use the attention he gets as a shooter to open passing lanes for his teammates out of ball-screen action (2.0 apg) … Shows flashes of a post game that he would be wise to continue to develop; as he has the size and touch to wall off and score against smaller perimeter matchups in the mid to high post area…Good FT shooter when he gets to the line (80% as a Fr.) … High IQ, well-coached player who takes care of the ball and plays to his strengths (1.3 topg)…Strong bloodlines as his father (and current head coach) Juwan Howard played in the NBA for 19 years …",
+        "Weakness": "Howard lacks much in the way of athleticism and explosiveness … Doesn’t seem to have much length and his physical profile will be worth monitoring closely during the pre-draft process to determine his athletic upside as well … Won’t strike fear in NBA defenders off the dribble, particularly in isolation, and usually needs a ball-screen and a running start to generate the momentum to get downhill into the paint … Doesn’t get all the way to the paint much at all, and struggles mightily with finishing for a 6’8 player when he does get there (only 42 FG% inside the arc) … Not to be confused with an above the rim player, especially in halfcourt offense…Not a crude ball-handler but is typically more effective the less he dribbles…Only 2.7 FTA a game, illustrating his tendency to shoot rather than aggressively slash … Hit the proverbial “freshman wall” in conference play; teams notably picked up on his tendency to favor going right, started forcing him to go to his off-hand more often and his effectiveness and efficiency decreased as his Fr season unfolded … Needs improvement defensively after often being targeted in both on and off-ball actions as a Fr … Below average lateral quickness, and doesn’t contain penetration that well when isolated … Has the potential to be somewhat switchable as a defender, but has struggled at times with both the more athletic wings he matches up with and the stronger PFs he sometimes will have to face as a smallball type PF … Doesn’t make many splash plays defensively either, with paltry steal and block totals (0.4 spg & 0.7 bpg)…Poor rebounding numbers (2.8 rpg); much more prone to leaking out to the perimeter in transition than chipping in on the glass",
+        "Overall": "Jett Howard was a top 50 level recruit who came to Michigan after a standout career in the Florida HS and AAU circuit … He came out blazing as a Fr. and impressed with his combination of shooting, passing, IQ and pick and roll prowess immediately … Flashes impressive moments as a shot-maker, being able to drain shots in a variety of ways and with easy NBA range … He also makes plenty of good passes with timing when teams load up to slow the threat of him shooting in the screening game, whether to rolling big guys or players located on the perimeter for jumpers…Still, he has some holes in his game that limit him, particularly on defense where he is rather heavy-footed and around the rim with his lack of athletic ability…He also had a lackluster last few weeks of his season that magnified just how much improvement he needs to make to be an efficient offensive player… But he does have some worthwhile floor skills that will make him a good fit as a role player and floor spacer at the NBA level, and he seems to have the basketball acumen to figure it out…He has played himself pretty firmly in 1st round discussion just before the season has ended, but he could elect to return and strengthen his draft stock with another year playing for his Dad …",
+        "Rating": {
+            "Athleticism": 6,
+            "Size": 8,
+            "Defense": 7,
+            "Strength": 8,
+            "Quickness": 7,
+            "Leadership": 8,
+            "Jump Shot": 9,
+            "NBA Ready": 8,
+            "Ball Handling": 7,
+            "Potential": 7,
+            "Passing": 8,
+            "Intangibles": 8
+        },
+        "NBA Comparison": "Doug McDermott",
+        "Mock Draft": 24
+    }
+}

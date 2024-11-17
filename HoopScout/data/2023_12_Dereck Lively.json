@@ -1,0 +1,54 @@
+{
+    "Profile": {
+        "Name": "Dereck Lively",
+        "Height": "7'1\"",
+        "Weight": "230 lbs",
+        "Wingspan": "Not specified",
+        "Position": "Center",
+        "Birthdate": "February 12, 2004",
+        "Nationality": "American"
+    },
+    "Statistics": {
+        "Points Per Game (PPG)": 5.2,
+        "Field Goal Percentage (FG%)": 65.8,
+        "Three-Point Percentage (3P%)": 15.4,
+        "Free Throw Percentage (FT%)": 60.0,
+        "Assists Per Game (APG)": 1.1,
+        "Turnovers Per Game (TOV)": 0.7,
+        "Rebounds Per Game (RPG)": 5.4,
+        "Offensive Rebounds Per Game (ORB)": 2.1,
+        "Defensive Rebounds Per Game (DRB)": 3.3,
+        "Steals Per Game (SPG)": 0.5,
+        "Blocks Per Game (BPG)": 2.4,
+        "Effective Field Goal Percentage (eFG%)": 66.7,
+        "Player Efficiency Rating (PER)": 22.6
+    },
+    "Background": {
+        "College": "Duke University",
+        "High School": "Westtown School",
+        "Work Ethic": "Demonstrates a strong commitment to improving his game, particularly in defensive skills and shot-blocking.",
+        "Mentality": "Possesses a defensive-first mindset with a focus on rim protection and team-oriented play."
+    },
+    "Report": {
+        "Strength": "One of the best rim protectors in college basketball with his size, length and athleticism around the paint … On top of his physical characteristics, he’s got solid anticipation and natural shot blocking instincts … Has an exceptionally high block rate for his minutes played … Runs the break well and is great at rim running and catching ally oop lobs … Mobile and agile enough to roam the interior without racking up three-second calls at the next level … Disciplined pick-and-roll defender who is terrific in drop coverage … Gets excellent positioning as an offensive rebounder by following the play and finding the open space for putback dunks … Didn’t shoot a high percentage, but looks comfortable letting it fly from the perimeter, indicating that shooting and scoring could be a surprising element if incorporated positively into his game at the next level … His usage rate may have been low, but Lively took care of the ball, turning it over just over once per 40 minutes … A 72% shooter from inside the arc …  If he can get his offensive game to the point where he can make open shots and score within the flow, he could be a valuable big due to his defensive and athletic abilities … Defensively, makes up ground in a flash with long strides and long arms on these switches … Shooting motion looks solid. He needs to be able to shoot it with better pace and get it off cleanly in game speed, which will take time, but the mechanics are solid enough to give his shot and ability to improve offensively some intrigue …",
+        "Weakness": "Just 5.2 ppg in his freshman season on 15% from 3 and 60% FT shooter, not exactly numbers that instill confidence about his ability to contribute much offensively during his rookie contract … Doesn’t have the greatest lateral quickness, but can switch on screens on the perimeter  … He may struggle to stay on the floor at the end of games when teams look to mismatch him with pick and pop shooters … Didn’t show much in his freshman season as a back to the basket scorer with a rarely utilized hook shot and a lean frame … Still needs to fill out and put on muscle … Failed to earn consistent minutes early in the season and often found himself in foul trouble when he did get into the game … Averaged 2.7 fouls in just 20 minutes per game showing his struggles to stay on the court … Gets displaced under the basket often because of his lack of strength … Extremely low free-throw rate for someone with such a size advantage over his opponents with just one attempt per game … Only shot 60% in those attempts … Didn’t dominate as much as he should have on the glass with just five rebounds per game, but it’s hard to imagine those numbers not improving in time as he adds strength … Lack of rebounding brings up some toughness questions, so teams will obviously need to feel comfortable with this element of his game and that he can improve it … Feel for the game a work in progress … Not always that great at anticipating plays on the offensive end, can get better with his hands, catching the ball cleanly and making a polished offensive move … Has a long ways to go as a creator, offensively …",
+        "Overall": "Lively was rated by ESPN’s recruiting analysts as the top overall senior coming into the season, but his lack of overall production, polish and lean body type means he could really use an additional year in college, refining his skills and growing more comfortable on the perimeter as a shooter … Flashed nice potential against North Carolina in his “breakout’ 4 point, 8 block, 14 rebound game during his freshman campaign, which earned him a great deal of draft hype …",
+        "Notes": "All-ACC Defensive and Freshman Team … Five-star center ranked as top high school recruit by ESPN in 2022 … Pennsylvania Gatorade Player of the Year in 2022 … 2022 McDonald’s All-American …",
+        "Rating": {
+            "Athleticism": 9,
+            "Size": 9,
+            "Defense": 9,
+            "Strength": 7,
+            "Quickness": 8,
+            "Leadership": 7,
+            "Jump Shot": 7,
+            "NBA Ready": 7,
+            "Rebounding": 7,
+            "Potential": 8,
+            "Post Skills": 7,
+            "Intangibles": 7
+        },
+        "NBA Comparison": "Jaxson Hayes/Willie Cauley-Stein",
+        "Mock Draft": 10
+    }
+}
