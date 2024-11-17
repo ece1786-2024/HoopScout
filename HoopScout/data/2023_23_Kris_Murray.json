@@ -1,0 +1,51 @@
+{
+    "Profile": {
+        "Name": "Kris Murray",
+        "Height": "6'8\"",
+        "Weight": "220 lbs",
+        "Wingspan": "7'0\"",
+        "Position": "Forward",
+        "Birthdate": "August 19, 2000",
+        "Nationality": "American"
+    },
+    "Statistics": {
+        "Points Per Game (PPG)": 20.2,
+        "Field Goal Percentage (FG%)": 47.6,
+        "Three-Point Percentage (3P%)": 33.5,
+        "Free Throw Percentage (FT%)": 72.9,
+        "Assists Per Game (APG)": 2.0,
+        "Turnovers Per Game (TOV)": 1.1,
+        "Rebounds Per Game (RPG)": 7.9,
+        "Offensive Rebounds Per Game (ORB)": 2.2,
+        "Defensive Rebounds Per Game (DRB)": 5.7,
+        "Steals Per Game (SPG)": 1.0,
+        "Blocks Per Game (BPG)": 1.2,
+        "Effective Field Goal Percentage (eFG%)": 53.5,
+        "Player Efficiency Rating (PER)": 25.6
+    },
+    "Background": {
+        "College": "Iowa",
+        "High School": "Prairie High School (Iowa)",
+        "Work Ethic": "High work ethic, significant development each season",
+        "Mentality": "Competitive, versatile, focused on improving team play"
+    },
+    "Report": {
+        "Strength": "A 6’9 225 SF/PF southpaw with the size (6-11 wingspan), mobility and length to play all along the frontcourt, especially as he fills out his frame…Pretty agile and moves well laterally, and isn’t a bad leaper off one or both feet … Has a nose for the ball and a knack for scoring in chunks; opportunistic and doesn’t necessarily need plays drawn up for him to make his mark in the scoring column … Let’s the game come to him and rarely forces bad shots…Good court awareness and knows how to find open spots and get easy shots as a cutter or navigating along the perimeter playing off his teammates’ dribble penetration … Possesses very good hands and has been a magnet for offensive rebounds this year for Iowa (2.8 orpg); seemingly has missed shots that are tipped or rimmed out fall into his lap every game … Enjoying a breakout season as a Jr. after being a per-minute savant as the teams 6th man during his Soph. season, and has seen his scoring totals double with more playing time (9.7 to 20.4 ppg, both on 48 FG%) … A career 35 3FG% that has 3-level scoring ability, and possesses a soft touch with consistent mechanics … Has the size to shoot over most wings with ease…Is a versatile mismatch threat with his offensive package and has played minutes everywhere from SF-C in Iowa’s spaced out scheme … Shows above average footwork and quickness around the rim and does a nice job utilizing up-and-unders and occasional spin moves to create space for himself (shooting 59% inside the arc as a Jr.) … Nice floater and 1-2 dribble pull up when chased off the line … Has especially enjoyed major success off the bounce facing up the big guys in the Big 10, who are notoriously lumbering, by getting them to respect his jumper and forcing them to defend him away from the basket … Not selfish; looks to initiate transition opportunities after rebounds and is comfortable handling and dishing in the open court … Runs the floor and can finish above the rim in the open court … Continues to steadily improve as a defender; has been more aggressive using his length and timing to challenge shots (1.2 bpg) and step out on the perimeter to hedge screens or switch and smother smaller ball-handlers this year … Smart player who does a good job taking care of the ball, especially considering his massive role in Iowa’s offense, and usually seems under control (2/1.5 A/TO, 0.9 topg for his career) … Will be compared to his twin brother and rookie 2022 lottery pick Keegan often in the draft process, especially considering their similar play styles and respective breakthrough seasons happened in nearly identical ways (no pun intended)",
+        "Weakness": "Murray wont be confused with a physical player and is clearly more finesse than a junkyard dog type … Should look to add more strength, though he does covert through contact at an adequate rate … Not quite as prolific a shooter as his brother and doesn’t show the same consistency from deep (34 3FG% as a Jr after 38% as a Soph.) … Had 3 games where he shot 0-5 or worse from deep … Doesn’t always have the same success breaking down the defense when defended by wings or other physically similar PFs that he does when playing as a smallball 5 … Not more than average as a ball-handler on the perimeter, has some misdirection but his moves can be timed by other wings … Clearly prefers to go with his left hand when driving and finishing more than his off-hand; had the quickness to avoid major issues with that approach in college but will have more problems with that against NBA defenders, particularly against help … Had his moments (ie 20 rebound game against GA Tech) but is mostly an area rebounder on the defensive end and finished the season with just OK production on the glass after missed shots despite heavy minutes at the PF/C spot (5.1 DRPG) … Older than usual for his class; will be 23 years old as a rookie which will call into question his overall upside … Struggled in his one tourney game (as Missouri’s featured player) with 15 and 9, but shot just 5-18 overall and 3-11 from deep",
+        "Outlook": "Projects as a valuable role player with potential to be a starter due to his versatile skill set and defensive abilities.",
+        "Rating": {
+            "Athleticism": 8,
+            "Size": 8,
+            "Defense": 7,
+            "Strength": 7,
+            "Quickness": 8,
+            "Leadership": 8,
+            "Jump Shoot": 8,
+            "Ball Handling": 7,
+            "Passing": 8,
+            "Potential": 8
+        },
+        "NBA Comparison": "Dorian Finney-Smith",
+        "Mock Draft": 23
+    }
+}

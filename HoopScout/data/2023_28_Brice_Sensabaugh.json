@@ -1,0 +1,51 @@
+{
+    "Profile": {
+        "Name": "Brice Sensabaugh",
+        "Height": "6'6\"",
+        "Weight": "235 lbs",
+        "Wingspan": "6'6",
+        "Position": "Forward",
+        "Birthdate": "October 30, 2003",
+        "Nationality": "American"
+    },
+    "Statistics": {
+        "Points Per Game (PPG)": 16.3,
+        "Field Goal Percentage (FG%)": 48.0,
+        "Three-Point Percentage (3P%)": 40.5,
+        "Free Throw Percentage (FT%)": 83.0,
+        "Assists Per Game (APG)": 1.2,
+        "Turnovers Per Game (TOV)": 2.0,
+        "Rebounds Per Game (RPG)": 5.4,
+        "Offensive Rebounds Per Game (ORB)": 0.9,
+        "Defensive Rebounds Per Game (DRB)": 4.5,
+        "Steals Per Game (SPG)": 0.5,
+        "Blocks Per Game (BPG)": 0.1,
+        "Effective Field Goal Percentage (eFG%)": 53.5,
+        "Player Efficiency Rating (PER)": 20.3
+    },
+    "Background": {
+        "College": "Ohio State",
+        "High School": "Lake Highland Prep (Florida)",
+        "Work Ethic": "Focused on scoring and improving shooting skills, consistent offensive growth",
+        "Mentality": "Offensive-minded player with a confident, aggressive approach to scoring"
+    },
+    "Report": {
+        "Strength": "Sensabaugh is a burly SF/PF at around 6’5 230, with a build resembling that of an NFL tight end … Also a solid athlete for his dimensions; shows good burst, body control and explosiveness … An offensive machine with mismatch scoring tools; has real 3-level scoring ability and can do damage in a variety of ways (16.3 PPG as a Fr.) … Soft touch shows up all in his 3-point shooting (40 3FG% on 4.5 3FGA/G), mid-range game, finishing around the rim, and as a post-up player (52 FG% inside the arc, 48 FG% overall) … Fluid release and shoots with confidence, making him a factor hitting shots when left open or against closeouts when spotting up … Strong first step and frame allow him to steamroll defenders on his slashes to the rim, particularly when operating on the perimeter against wings … Has a wide, sturdy base to power through contact; built for physical play and picked up a number of ‘and-1s’ this past season (83 FT% on 3 FTA/G) … Will occasionally flash some juice as a leaper and finish above the rim when he has momentum … Can seal in the low and mid post areas & has a good feel for using his shoulders to create space for his fadeaway & turnaround jumper … Outstanding production in the 15-18 ft area; is a threat facing up on short kickouts, screens or pulling up off 1 or 2 dribbles and sticking shots when chased off the line … Adequate ball-handling ability with both hands to create space & will use simple crossovers and stepbacks when overplayed … Makes sound reads and knows how to find open spots on the court, making him a promising off-ball scorer who won’t always have to create his own shots … A relative late bloomer who could just be scratching the surface after shooting up the HS rankings as a Sr. and enjoying a better than expected Fr. season; wasn’t on any 2023 draft boards prior to the season … Has a clear niche and that gives him a somewhat high floor as a prospect",
+        "Weakness": "Unconventional physical tools with average height and length by NBA standards despite his wider frame, and is more powerful than athletic … Not especially quick or light on his feet, and his leaping ability & speed while not poor are that of a “build-up” variety … More of a below the rim player, particularly in the halfcourt … Physical nature and strength can be used against him at times, leading to his picking up charges against more savvy defenders…Defense is a work in progress currently; poor fundamentals and overall awareness at times landed him in the doghouse at Ohio State despite his offensive prowess … There are some legitimate questions about what positions he projects to consistently defend at the NBA level … Was often directly targeted by opponents at the point of attack but also seemed to be a step behind off the ball when it came to locating shooters and making controlled closeouts, which led to plenty of possessions with team defensive collapses and easy shot attempts … Doesn’t force many turnovers or disrupt passing lanes (0.5 SPG)…Fared slightly better defending post-ups and frontcourt players, but still gets shot over easily due to his lack of height, length and static leaping skills (0.4 BPG)…Average overall rebounding skills (5.4 RPG) and won’t grab many boards outside of his general area…Doesn’t pass the ball much; mostly wired to get his own shots and displayed a bit of tunnel vision (1.2 APG)…Should monitor his conditioning and diet closely (only played 24 MPG), as he has a body type that could easily struggle with injuries or weight issues in the future if he’s not careful",
+        "Outlook": "Projects as a scoring wing off the bench with potential to develop into a starting role if defensive skills improve. His scoring talent could make him an instant contributor on a team needing offensive firepower.",
+        "Rating": {
+            "Athleticism": 7,
+            "Size": 7,
+            "Defense": 7,
+            "Strength": 8,
+            "Quickness": 6,
+            "Leadership": 8,
+            "Jump Shoot": 8,
+            "Ball Handling": 8,
+            "Passing": 8,
+            "Potential": 7
+        },
+        "NBA Comparison": "Shake Milton/Matt Harpring",
+        "Mock Draft": 28
+    }
+}
