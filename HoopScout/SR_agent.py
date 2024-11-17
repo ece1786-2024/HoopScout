@@ -1,5 +1,6 @@
 # Scouting Report Agent
 from openai import OpenAI
+import json
 
 client = OpenAI(api_key="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")
 
@@ -17,8 +18,8 @@ def SR_agent_response(player_info, existing_players):
         model="gpt-4o",
         messages=[
             {"role": "system", "content": prompt},
-            {"role": "user", "content": "Here is the player's information I want you to generate a scouting report: " + player_info + "\n"
-            + "Here are the similar players information from a dataset: " + existing_players}
+            {"role": "user", "content": "Here is the player's information I want you to generate a scouting report: " + json.dumps(player_info, indent=2) + "\n"
+            + "Here are the similar players information from a dataset: " + json.dumps(existing_players, indent=2)}
         ]
     )
 
