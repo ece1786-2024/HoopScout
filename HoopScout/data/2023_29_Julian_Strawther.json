@@ -1,0 +1,51 @@
+{
+    "Profile": {
+        "Name": "Julian Strawther",
+        "Height": "6'7\"",
+        "Weight": "210 lbs",
+        "Wingspan": "6'9.25\"",
+        "Position": "Small Forward",
+        "Birthdate": "April 18, 2002",
+        "Nationality": "American"
+    },
+    "Statistics": {
+        "Points Per Game (PPG)": 15.2,
+        "Field Goal Percentage (FG%)": 46.9,
+        "Three-Point Percentage (3P%)": 40.8,
+        "Free Throw Percentage (FT%)": 77.6,
+        "Assists Per Game (APG)": 1.3,
+        "Turnovers Per Game (TOV)": 1.5,
+        "Rebounds Per Game (RPG)": 6.2,
+        "Offensive Rebounds Per Game (ORB)": 1.1,
+        "Defensive Rebounds Per Game (DRB)": 5.1,
+        "Steals Per Game (SPG)": 0.8,
+        "Blocks Per Game (BPG)": 0.4,
+        "Effective Field Goal Percentage (eFG%)": 55.0,
+        "Player Efficiency Rating (PER)": 21.0
+    },
+    "Background": {
+        "College": "Gonzaga",
+        "High School": "Liberty High School (Las Vegas, NV)",
+        "Work Ethic": "Strong focus on improving shooting and off-ball movement, consistent contributor for his team",
+        "Mentality": "Scoring-first approach with good decision-making and willingness to play off-ball"
+    },
+    "Report": {
+        "Strength": "3-and-D wing with a quick release and efficient scoring from beyond the arc … Flourished at Gonzaga in his 3-year career as a terrific floor spacer who attacks closeouts and finishes in the lane with a tremendous floater … Can also attack the rim on aggressive closeouts with excellent touch in and around the paint. Incredibly efficient inside the arc during his first two seasons at 70 and 66 percent before a dip to 52 percent as a junior … One of the best rebounding wings in the nation with six rebounds per game last season … Perfectly blended into Gonzaga’s fast-paced offense with his speed and intelligence to find his spot in transition … Can score in both spot-ups and off the dribble in isolation from beyond the arc … Excellent movement off the ball, especially running defenders off screens … Clutch performer. Showed a willingness and confidence to take the last shot in big moments, with a pair of clutch game-winning shots against BYU and UCLA, which came in the Sweet 16 … Won’t have an issue adjusting to NBA range with many of his 3-pointers coming from well beyond the arc … Great form and shooting mechanics on his jumper … Has added a solid floater to get baskets on drives … Excellent touch and body control around the rim to convert … His constant movement, quick changes of speed and long strides allow him to get to the basket without beating his man on his first step … Used timely backdoor cuts in Gonzaga’s motion offense to create easy looks for himself … Disciplined defender who has the length to block shots at a solid rate … Began to take over the role of Gonzaga’s go to player late in his junior season … Raised free throw percentage to near 80% as a junior … Converted a solid number of ally oops ",
+        "Weakness": "Unorthodox release on his shot … Awkward base to his jump shot with his knees tucked inside more than his toes … Toughness received some criticism through his three year career … Not an explosive athlete as he relies more on lengthy strides and a relentless motor to win toward the basket … Doesn’t do much in the playmaking or shot creating departments in slower half-court sets. His assists rarely came off the dribble … Only an average free-throw shooter for a shooting wing at 74% for his career … His inability to consistently win off the dribble is supported by his low number of free throw attempts per game (3.1 attempts in 29 minutes per game over the last two seasons) … A lot of his worst games came against high-level opponents who were able to put high-level athletes on him. Due to his lack of top-notch athleticism, a lot of his success may be system-based if he is able to get out and run consistently … Slower paced teams may struggle to get him going outside of a floor-spacing/shooting role ",
+        "Outlook": "Projects as a valuable floor-spacing wing with potential to be a strong role player. His shooting and rebounding should make him a reliable contributor off the bench initially, with room for growth as a scorer.",
+        "Rating": {
+            "Athleticism": 8,
+            "Size": 8,
+            "Defense": 8,
+            "Strength": 7,
+            "Quickness": 7,
+            "Leadership": 7,
+            "Jump Shoot": 8,
+            "Ball Handling": 8,
+            "Passing": 7,
+            "Potential": 7
+        },
+        "NBA Comparison": "Doug Christie",
+        "Mock Draft": 29
+    }
+}

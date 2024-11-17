@@ -1,0 +1,51 @@
+{
+    "Profile": {
+        "Name": "Kobe Brown",
+        "Height": "6'8\"",
+        "Weight": "252 lbs",
+        "Wingspan": "7'0.75\"",
+        "Position": "Forward",
+        "Birthdate": "January 1, 2000",
+        "Nationality": "American"
+    },
+    "Statistics": {
+        "Points Per Game (PPG)": 15.8,
+        "Field Goal Percentage (FG%)": 55.3,
+        "Three-Point Percentage (3P%)": 45.5,
+        "Free Throw Percentage (FT%)": 79.2,
+        "Assists Per Game (APG)": 2.5,
+        "Turnovers Per Game (TOV)": 1.8,
+        "Rebounds Per Game (RPG)": 6.4,
+        "Offensive Rebounds Per Game (ORB)": 1.1,
+        "Defensive Rebounds Per Game (DRB)": 5.3,
+        "Steals Per Game (SPG)": 1.5,
+        "Blocks Per Game (BPG)": 0.4,
+        "Effective Field Goal Percentage (eFG%)": 58.0,
+        "Player Efficiency Rating (PER)": 24.5
+    },
+    "Background": {
+        "College": "Missouri",
+        "High School": "Lee High School (Alabama)",
+        "Work Ethic": "Strong, with notable improvement in shooting over his college career",
+        "Mentality": "Versatile, physical player with a strong motor and scoring instincts"
+    },
+    "Report": {
+        "Strength": "The “brown mamba” is a physical playmaking wing who can stretch the floor and create for others in half-court offense … Could make an argument that he is the best passing wing in the 2023 NBA Draft class with his vision and quick processing in transition and off the dribble … Uses his physical frame to finish through contact with efficiency around the rim. Can also contort his body with surprising acrobatics in the air to avoid contact if there is space near the hoop … Deceptive quickness with his first step to create an advantage on drives. Often makes the right decision when he wins off the bounce, either creating open looks for others or taking it all the way in for a bucket … Catch-and-shoot specialist, which will likely be much of his role early on in the NBA. But he is versatile enough on the offensive end to expand his role into a secondary ball-handler/shot creator in mismatches … Can create these mismatches with outstanding strength that could allow him to handle powerful big men in the post … Smooth ball-handler with a decent bag. Protects the ball extraordinarily well when he picks it up toward the basket … Can win in face-ups or with his back turned toward the basket … Above average post scorer from the wing … Uses the rim well to protect him on reverse layups and dunks … Aggressive rebounder who put up solid numbers all four years with Missouri (6.0 per game for career) … Developed into a terrific 3-point shooter, both on the move and in spot-ups as a senior (45.5%) … Growth as a free-throw shooter supported his growth as a 3-point shooter (79% FT in final two seasons) … Overcame a turnover problem as a junior (2.3 per game) and cut it down to 1.6 per game while growing more confident and courageous in his passing abilities … Also cut down on fouls per game (3.1 to 2.5) … Intelligent player who continuously developed, showing a strong work ethic and coachability … Makes up for lack of quickness with intelligent defending and excellent timing when going for strips and blocks. Averaged a steal and a half per game last season. Long arms helped his aggressive nature as an off-ball defender out on the perimeter, deflecting and intercepting passes that he otherwise wouldn’t be able to reach … Quick and fluid shooting stroke",
+        "Weakness": "Not the quickest lateral athlete or most explosive vertical athlete, as illustrated by his 32” max vertical leap at the combine … While his free-throw shooting as a junior backed up his growth from the perimeter, such a dramatic jump from 20.6% to 45.5% (from 3) raises concerns about Brown’s true shooting potential and if he will succeed from NBA range at a consistent rate … Had some bad misses throughout his career that could be red flags … Classic in-between positions player. Could be too slow to play the four and too short to play as a small-ball five, especially without much to show in the rim protection department … If he can’t bully his way to the basket or win off the dribble, his mid-range game lacks any confidence and often leads to thrown up shots or turnovers at the second level. Mostly a 3-point shooter or finisher around the rim without the second level scoring to his game … Will struggle in perimeter defending without great foot speed and quickness. Won’t be a defensive liability though, with his instincts and intelligence on that end of the floor",
+        "Outlook": "Projects as a versatile, two-way role player with potential to contribute immediately due to his shooting, size, and physical play. His late breakout season suggests growth potential if his development continues.",
+        "Rating": {
+            "Athleticism": 7,
+            "Size": 7,
+            "Defense": 7,
+            "Strength": 8,
+            "Quickness": 6,
+            "Leadership": 8,
+            "Jump Shoot": 8,
+            "Ball Handling": 7,
+            "Passing": 8,
+            "Potential": 6
+        },
+        "NBA Comparison": "Damien Wilkins",
+        "Mock Draft": 30
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "Profile": {
+        "Name": "Ben Sheppard",
+        "Height": "6'6\"",
+        "Weight": "195 lbs",
+        "Wingspan": "6'7.75\"",
+        "Position": "Shooting Guard",
+        "Birthdate": "July 16, 2001",
+        "Nationality": "American"
+    },
+    "Statistics": {
+        "Points Per Game (PPG)": 18.8,
+        "Field Goal Percentage (FG%)": 47.5,
+        "Three-Point Percentage (3P%)": 41.5,
+        "Free Throw Percentage (FT%)": 69.8,
+        "Assists Per Game (APG)": 2.9,
+        "Turnovers Per Game (TOV)": 2.2,
+        "Rebounds Per Game (RPG)": 5.2,
+        "Offensive Rebounds Per Game (ORB)": 0.8,
+        "Defensive Rebounds Per Game (DRB)": 4.4,
+        "Steals Per Game (SPG)": 1.4,
+        "Blocks Per Game (BPG)": 0.2,
+        "Effective Field Goal Percentage (eFG%)": 55.0,
+        "Player Efficiency Rating (PER)": 21.5
+    },
+    "Background": {
+        "College": "Belmont",
+        "High School": "Greater Atlanta Christian",
+        "Work Ethic": "Dedicated, with consistent development in shooting and defense",
+        "Mentality": "High basketball IQ, selfless, and adaptable team player"
+    },
+    "Report": {
+        "Strength": "An impactful 3-and-D wing who was outstanding in his four seasons at Belmont on both sides of the ball … Showed out in NBA Combine scrimmages, which included a 25-point game, one-point shy of an NBA Combine record … Smooth and efficient shooting stroke from beyond the arc at 41.5% as a senior … Showed impressive confidence initiating the offense and creating his own shot off the dribble at the NBA Combine. Decent playmaker on the wing as well with three assists per game … Playmaking background as he was named the best passer in the Atlanta area in 2019 and grew up as a point guard due to a late growth spurt … Quick trigger and high release allow him to get shots up without much space on the perimeter … Aggressive slasher who showed he can initiate contact and get to the line with over four attempts per game … More than just a floor-spacing shooter with his handles and finishing inside the arc … Disruptive and agile defender who can switch 1-3 on the perimeter and even onto smaller 4’s to contest outside jumpers … Averaged nearly a steal and a half per game … Extremely intelligent player who reads defenses well with precise passing and timely cuts to get open looks for himself … Positive AST/TO ratio as a three-year starter with Belmont … Showed a selfless understanding of his role at the combine, shifting from go-to scorer at Belmont to exceptional role player alongside the talented teammates around him … Great positional size … Positive rebounder with over five per game in his final season … Stays out of foul trouble",
+        "Weakness": "Not the most explosive athlete with just a 35.5-inch max vertical. He’s also more quick than fast, often creating space for himself with shiftiness rather than straight-line speed … Faced low-level competition collegiality, compared to his draft competition, although he did show he belongs with that competition in the combine scrimmages … Taking these performances for what they were, just two scrimmages, and balancing that with four years of tape is the biggest challenge for evaluators … Turns 22 on July 16th, limiting his upside … Doesn’t have elite potential, but should be able to contribute as a role player if his efficiency carries over to the next level … Measurements, particularly wingspan, were slightly disappointing, but Sheppard plays much longer and taller than these measurements suggest … While his three point shot showed steady improvement throughout his college career, climbing to 40% as a senior, his FT percentage flat lined and hovered around and below 70% throughout four years at Belmont … Lack of efficiency from FT line clouds confidence in his ability to become a floor spacer/outside threat at next level ",
+        "Outlook": "Projects as a valuable 3-and-D wing with the potential to be a high-level role player in the NBA due to his shooting and defensive capabilities.",
+        "Rating": {
+            "Athleticism": 7,
+            "Size": 8,
+            "Defense": 7,
+            "Strength": 7,
+            "Quickness": 7,
+            "Leadership": 8,
+            "Jump Shoot": 7,
+            "Ball Handling": 8,
+            "Passing": 8,
+            "Potential": 6
+        },
+        "NBA Comparison": "Garrett Temple",
+        "Mock Draft": 26
+    }
+}
