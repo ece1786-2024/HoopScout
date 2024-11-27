@@ -45,7 +45,7 @@ Minutes Played: ≥ 25 minutes per game
 '''
 
 
-def create_badge_input(profile_pth, asb_pth, os_pth, grs_pth, ds_pth, pt_pth, pf_pth, d_pth):
+def create_badge_input(profile_pth, asb_pth, os_pth, grs_pth, ds_pth, pt_pth, pf_pth, d_pth, avg_stats):
     user_input = f'''
     Given the player's information and stats, please list the badgese he has. Only list the name of each badge the player has.
 
@@ -72,6 +72,9 @@ def create_badge_input(profile_pth, asb_pth, os_pth, grs_pth, ds_pth, pt_pth, pf
 
     Tracking Defense stats: 
     {d_pth}
+
+    Player Average Stats:
+    {avg_stats}
     '''
     return user_input
 

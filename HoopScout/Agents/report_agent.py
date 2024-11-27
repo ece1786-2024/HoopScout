@@ -12,11 +12,13 @@ breakdown of Two-Pointers and Three-Pointers, etc.
 6. Pass TO stats: Player's passing to Ttammates, stats demonstrating teammates' shooting performance off passes.
 7. Pass From stats: Passes received from teammates, stats demonstrating player's shooting performance off passes.
 8. Tracking Defense stats
+9. Player Average Stats: Player's average stats over the last few games, including Points Per Game (PPG), Rebounds Per Game (RPG), Assists Per Game (APG), Steals Per Game (SPG), Blocks Per Game (BPG),
+Field Goal Percentage (FG%) 3-Point Percentage (3P%), Free Throw Percentage (FT%).
 
 The report should have the following structure:
 * Overview
     - Player's profile, name, number, position, height, weight.
-    - Based on the player's Advanced Score Boxes data, calculate the player's average stats over the last few games, including PPG, RPG, APG, SPG, BPG, FG%, 3P%, FT%. 
+    - Based on the player's average stats data, display the player's average stats over the last few games, including PPG, RPG, APG, SPG, BPG, FG%, 3P%, FT%. 
     - Recent performance trends, determine if the player is on a hot streak or in a slump.
     - Role in the team.
 
@@ -49,7 +51,7 @@ The report should have the following structure:
 When generating the report use proper terminology incorporating basketball-specific language for precision and present information factually without bias or emotion.
 """
 
-def create_report_input(profile_pth, asb_pth, os_pth, grs_pth, ds_pth, pt_pth, pf_pth, d_pth):
+def create_report_input(profile_pth, asb_pth, os_pth, grs_pth, ds_pth, pt_pth, pf_pth, d_pth, avg_stats):
     user_input = f'''
     Given the opponent player's information and stats, please generate a pre-game scouting report.
 
@@ -76,6 +78,9 @@ def create_report_input(profile_pth, asb_pth, os_pth, grs_pth, ds_pth, pt_pth, p
 
     Tracking Defense stats: 
     {d_pth}
+
+    Player Average Stats:
+    {avg_stats}
     '''
     return user_input
 

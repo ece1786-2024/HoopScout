@@ -26,4 +26,22 @@ def data_processing(profile_pth, asb_pth, os_pth, grs_pth, ds_pth, pt_pth, pf_pt
     Tracking_Defense_df = pd.read_csv(d_pth)
     Tracking_Defense_string = Tracking_Defense_df.to_string(index=False)
 
-    return Player_Profile, Advanced_Score_Boxes_string, Overall_Shooting_string, General_Range_Shooting_string, Dribbles_Shooting_string, Pass_To_string, Pass_From_string, Tracking_Defense_string
+    AVG_stats = average_stats(Advanced_Score_Boxes_df)
+
+    return Player_Profile, Advanced_Score_Boxes_string, Overall_Shooting_string, General_Range_Shooting_string, Dribbles_Shooting_string, Pass_To_string, Pass_From_string, Tracking_Defense_string, AVG_stats
+
+
+def average_stats(Advanced_Score_Boxes_df):
+    """ 
+    average PPG, RPG, APG, SPG, BPG, FG%, 3P%, FT%
+    """
+    avg_dict = {"PPG": round(Advanced_Score_Boxes_df["PTS"].mean(), 2),
+    "RPG": round(Advanced_Score_Boxes_df["REB"].mean(), 2),
+    "APG": round(Advanced_Score_Boxes_df["AST"].mean(), 2),
+    "SPG": round(Advanced_Score_Boxes_df["STL"].mean(), 2),
+    "BPG": round(Advanced_Score_Boxes_df["BLK"].mean(), 2),
+    "FG%": round(Advanced_Score_Boxes_df["FG%"].mean(), 2),
+    "3P%": round(Advanced_Score_Boxes_df["3P%"].mean(), 2),
+    "FT%": round(Advanced_Score_Boxes_df["FT%"].mean(), 2)}
+    
+    return avg_dict
