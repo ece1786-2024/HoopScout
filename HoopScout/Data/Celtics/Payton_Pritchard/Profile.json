@@ -1,0 +1,15 @@
+{
+    "name": "Payton Pritchard",
+    "number": 11,
+    "team": "Boston Celtics",
+    "position": ["Guard"],
+    "height": {
+        "feet": 6,
+        "inches": 1,
+        "meters": 1.85
+    },
+    "weight": {
+        "pounds": 195,
+        "kilograms": 88
+    }
+}

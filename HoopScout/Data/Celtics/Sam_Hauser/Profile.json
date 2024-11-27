@@ -1,0 +1,15 @@
+{
+    "name": "Sam Hauser",
+    "number": 30,
+    "team": "Boston Celtics",
+    "position": ["Forward"],
+    "height": {
+        "feet": 6,
+        "inches": 7,
+        "meters": 2.01
+    },
+    "weight": {
+        "pounds": 217,
+        "kilograms": 98
+    }
+}

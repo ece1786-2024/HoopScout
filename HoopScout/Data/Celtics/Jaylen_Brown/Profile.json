@@ -1,0 +1,15 @@
+{
+    "name": "Jaylen Brown",
+    "number": 7,
+    "team": "Boston Celtics",
+    "position": ["Guard", "Forward"],
+    "height": {
+        "feet": 6,
+        "inches": 6,
+        "meters": 1.98
+    },
+    "weight": {
+        "pounds": 223,
+        "kilograms": 101
+    }
+}
