@@ -35,7 +35,7 @@ The report should have the following structure:
     - Defensive weaknesses, based on defensive stats, how's his defense ability, if opponents shoot much better than average against him, indicate poor defense ability, etc.
     - Other aspects you can think of based on his stats. (Fould trouble, size, etc.)
     
-* Offensive Strategies Against Him: How to exploit the player's defensive weaknesses when the team is on offense.
+* Offensive Strategies Against Him: How to exploit the player's defensive weaknesses, how to attack this player.
     - Attack weak defend zone, say if the player defends poorly at perimeter, encourage outside shooting when he's on the court, etc.
     - Depend on the player's defense ability, maybe utilize pick-and-rolls to force switches or mismatches, maybe avoid attacking him or call iso on him, etc.
     - Steer clear of challenging him in areas where he excels defensively.

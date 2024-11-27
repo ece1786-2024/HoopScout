@@ -14,23 +14,22 @@ The simplified report should include the following sections:
 
 * Key Weaknesses: 2-3 bullet points of the player's key vulnerabilities, turnovers, defense, etc.
 
-* Offensive Strategy: 1-2 bullet points on the most effective way to attack this player.
+* Offensive Strategy: 1-2 bullet points on the most effective way to attack this player, how to exploit his defensive weakness.
 
 * Defensive Strategy: 1-2 bullet points on the best way to defense this player.
 
 
 In addition, you should help to match the given badges of the player with the corresponding badges image path, such as
-- if player has Defense Badge, the image path should be "Badges/Defense.PNG"
-- if player has Finisher Badge, the image path should be "Badges/Finisher.PNG"
-- if player has Rebound Badge, the image path should be "Badges/Rebound.PNG"
-- if player has Jump Shot Badge, the image path should be "Badges/Jumpshot.PNG"
-- if player has Catch and Shoot Badge, the image path should be "Badges/Cathch&Shoot.PNG"
-- if player has Passing Badge, the image path should be "Badges/Dimer.PNG"
+- if player has Defense Badge, the image path should be "https://upload.wikimedia.org/wikipedia/commons/6/66/Defense.png"
+- if player has Finisher Badge, the image path should be "https://upload.wikimedia.org/wikipedia/commons/9/9f/Finisher.png"
+- if player has Rebound Badge, the image path should be "https://upload.wikimedia.org/wikipedia/commons/d/d0/Rebound.png"
+- if player has Jump Shot Badge, the image path should be "https://upload.wikimedia.org/wikipedia/commons/0/09/Jumpshot.png"
+- if player has Catch and Shoot Badge, the image path should be "https://upload.wikimedia.org/wikipedia/commons/5/5d/Catch%26Shoot.png"
+- if player has Passing Badge, the image path should be "https://upload.wikimedia.org/wikipedia/commons/7/74/Dimer.png"
 Please strictly follow the image path format above with the corresponding badges.
 
 
-For player's portrait, the image path should be "Team/FirstName_LastName/Portrait.jpg", for example, if the player's name is Anthony Davis who play for Los Angeles Lakers, the image path
-should be "Data/Lakers/Anthony_Davis/Portrait.jpg".
+For player's portrait, the image path should be given by the user as Player Portrait Path.
 
 
 Besides, you should provide me the report in markdown format, strictly following format below:
@@ -39,7 +38,7 @@ Besides, you should provide me the report in markdown format, strictly following
 </div>
 
 <div margin: 20px 0;>
-<img src="" (Portrait Image path go here) alt="Portrait" width="520" height="380" style="border: 1px solid #ddd; border-radius: 5px; padding: 5px;">
+<img src="" (Player Portrait Image path go here) alt="Portrait" width="520" height="380" style="border: 1px solid #ddd; border-radius: 5px; padding: 5px;">
 </div>
 
 <div margin: 20px 0;>
@@ -82,41 +81,48 @@ Besides, you should provide me the report in markdown format, strictly following
   </table>
 </div>
 
-## Key Strengths:
--...
--...
--...
+<h2>Key Strengths:</h2>
+<ul>
+  <li>...</li>
+  <li>...</li>
+  <li>...</li>
+</ul>
+<hr>
 
----
+<h2>Key Weaknesses:</h2>
+<ul>
+  <li>...</li>
+  <li>...</li>
+  <li>...</li>
+</ul>
+<hr>
 
-## Key Weaknesses:
--...
--...
--...
+<h2>Offensive Strategy:</h2>
+<ul>
+  <li>...</li>
+  <li>...</li>
+  <li>...</li>
+</ul>
+<hr>
 
----
-
-## Offensive Strategy:
--...
--...
--...
-
----
-
-## Defensive Strategy:
--...
--...
--...
+<h2>Defensive Strategy:</h2>
+<ul>
+  <li>...</li>
+  <li>...</li>
+  <li>...</li>
+</ul>
 """
 
 
-def create_pre_game_report_input(player_report, player_badges):
+def create_pre_game_report_input(player_report, player_badges, Portrait_path):
     user_input = f''' 
     Here is the scouting report and badges for player based on his recent performance. Please generate a simplified version for quick insights.
 
     Player Report: {player_report}
 
     Player Badges: {player_badges}
+
+    Player Portrait Path: {Portrait_path}
     '''
     return user_input
 

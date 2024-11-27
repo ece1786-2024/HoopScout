@@ -11,14 +11,14 @@ Steals Per Game (STL): ≥ 1.5 (alternative if BLK criterion isn't met)
 Minutes Played: ≥ 25 minutes per game
 
 * Jump Shot Badge
-Pull-Up Field Goal Percentage: ≥ 45%
+Pull-Up Field Goal Percentage: ≥ 40%
 Frequency of Pull-Up Shots (Freq%): ≥ 20%
-Field Goal Percentage with 3+ Dribbles: ≥ 45%
+Field Goal Percentage with 3+ Dribbles: ≥ 40%
 Points Per Game (PPG): ≥ 15
 
 * Catch and Shoot Badge
-Catch and Shoot FG%: ≥ 50%
-Catch and Shoot 3P%: ≥ 40%
+Catch and Shoot FG%: ≥ 45%
+Catch and Shoot 3P%: ≥ 38%
 Frequency (Freq%): ≥ 40%
 Points from Catch and Shoot: ≥ 6 PPG
 Attempts Per Game: ≥ 3
@@ -33,14 +33,12 @@ Points Per Game (PPG): ≥ 15
 * Passing Badge
 Assists Per Game (APG): ≥ 5
 Assist-to-Turnover Ratio (A/T): ≥ 2.5
-Passes Made Per Game: ≥ 50 (not provided)
 Turnovers Per Game (TOV): Below league average for primary ball-handlers
 
 * Rebounding Badge
 Rebounds Per Game (RPG): ≥ 8
 Offensive Rebounds Per Game (OREB): ≥ 2
 Defensive Rebounds Per Game (DREB): ≥ 6
-Rebounding Percentage (REB%): Top 25% in the league (not provided)
 Minutes Played: ≥ 25 minutes per game
 '''
 
