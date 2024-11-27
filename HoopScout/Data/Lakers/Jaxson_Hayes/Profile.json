@@ -1,0 +1,16 @@
+{
+    "name": "Jaxson Hayes",
+    "number": 11,
+    "team": "Los Angeles Lakers",
+    "position": ["Center", "Forward"],
+    "height": {
+        "feet": 7,
+        "inches": 0,
+        "meters": 2.13
+    },
+    "weight": {
+        "pounds": 220,
+        "kilograms": 100
+    }
+}
+

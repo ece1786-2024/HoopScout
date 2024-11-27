@@ -1,0 +1,15 @@
+{
+    "name": "Xavier Tillman",
+    "number": 26,
+    "team": "Boston Celtics",
+    "position": ["Forward"],
+    "height": {
+        "feet": 6,
+        "inches": 7,
+        "meters": 2.01
+    },
+    "weight": {
+        "pounds": 245,
+        "kilograms": 111
+    }
+}
