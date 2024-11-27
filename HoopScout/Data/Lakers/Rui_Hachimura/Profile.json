@@ -1,0 +1,15 @@
+{
+    "name": "Rui Hachimura",
+    "number": 28,
+    "team": "Los Angeles Lakers",
+    "position": ["Forward"],
+    "height": {
+        "feet": 6,
+        "inches": 8,
+        "meters": 2.03
+    },
+    "weight": {
+        "pounds": 230,
+        "kilograms": 104
+    }
+}
