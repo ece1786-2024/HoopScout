@@ -1,0 +1,15 @@
+{
+    "name": "Neemias Queta",
+    "number": 88,
+    "team": "Boston Celtics",
+    "position": ["Center"],
+    "height": {
+        "feet": 7,
+        "inches": 0,
+        "meters": 2.13
+    },
+    "weight": {
+        "pounds": 248,
+        "kilograms": 112
+    }
+}

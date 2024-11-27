@@ -1,0 +1,15 @@
+{
+    "name": "Al Horford",
+    "number": 42,
+    "team": "Boston Celtics",
+    "position": ["Center", "Forward"],
+    "height": {
+        "feet": 6,
+        "inches": 9,
+        "meters": 2.06
+    },
+    "weight": {
+        "pounds": 240,
+        "kilograms": 109
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Jayson Tatum",
+    "number": 0,
+    "team": "Boston Celtics",
+    "position": ["Forward", "Guard"],
+    "height": {
+        "feet": 6,
+        "inches": 8,
+        "meters": 2.03
+    },
+    "weight": {
+        "pounds": 210,
+        "kilograms": 95
+    }
+}

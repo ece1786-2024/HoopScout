@@ -1,0 +1,15 @@
+{
+    "name": "Jrue Holiday",
+    "number": 4,
+    "team": "Boston Celtics",
+    "position": ["Guard"],
+    "height": {
+        "feet": 6,
+        "inches": 4,
+        "meters": 1.93
+    },
+    "weight": {
+        "pounds": 205,
+        "kilograms": 93
+    }
+}

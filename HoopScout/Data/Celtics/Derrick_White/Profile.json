@@ -1,0 +1,15 @@
+{
+    "name": "Derrick White",
+    "number": 9,
+    "team": "Boston Celtics",
+    "position": ["Guard"],
+    "height": {
+        "feet": 6,
+        "inches": 4,
+        "meters": 1.93
+    },
+    "weight": {
+        "pounds": 190,
+        "kilograms": 86
+    }
+}
