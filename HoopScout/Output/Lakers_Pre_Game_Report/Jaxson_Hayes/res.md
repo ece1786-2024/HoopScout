@@ -4,10 +4,10 @@
  </span>
 </div>
 <div 0;="" 20px="" margin:="">
- <img alt="Portrait" height="380" src="Data/Lakers/Jaxson_Hayes/Portrait.jpg" width="520"/>
+ <img alt="Portrait" height="380" src="/HoopScout/Data/Lakers/Jaxson_Hayes/Portrait.jpg" width="520"/>
 </div>
 <div 0;="" 20px="" margin:="">
- <img alt="Inside Scorer Badge" height="104" src="Badges/Finisher.PNG" width="92"/>
+ <img alt="Inside Scorer Badge" height="104" src="/HoopScout/Badges/Finisher.PNG" width="92"/>
 </div>
 <div>
  <span>
