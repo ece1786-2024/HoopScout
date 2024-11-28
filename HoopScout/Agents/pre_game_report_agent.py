@@ -29,22 +29,16 @@ In addition, you should help to match the given badges of the player with the co
 Please strictly follow the image path format above with the corresponding badges.
 
 
-For player's portrait, the image path should be given by the user as Player Portrait Path.
-
-
 Besides, you should provide me the report in markdown format, strictly following format below:
-<div style="text-align;">
-  <span style="font-size: 32px; font-weight: bold;">Pre-Game Scouting Report</span>
-</div>
 
-<div margin: 20px 0;>
-<img src="" (Player Portrait Image path go here) alt="Portrait" width="520" height="380" style="border: 1px solid #ddd; border-radius: 5px; padding: 5px;">
-</div>
-
-<div margin: 20px 0;>
+<div style="margin: 20px 0; display: flex; justify-content: center; gap: 10px;">
   <img src="Badge1.PNG" alt="Badge Type" width="92" height="104" style="margin: 0 5px;">
   <img src="Badge2.PNG" alt="Badge Type" width="92" height="104" style="margin: 0 5px;">
   ... if there are more badges, continue to add them in the same format.
+</div>
+
+<div style="text-align;">
+  <span style="font-size: 32px; font-weight: bold;">Pre-Game Scouting Report</span>
 </div>
 
 <div>
@@ -114,15 +108,13 @@ Besides, you should provide me the report in markdown format, strictly following
 """
 
 
-def create_pre_game_report_input(player_report, player_badges, Portrait_path):
+def create_pre_game_report_input(player_report, player_badges):
     user_input = f''' 
     Here is the scouting report and badges for player based on his recent performance. Please generate a simplified version for quick insights.
 
     Player Report: {player_report}
 
     Player Badges: {player_badges}
-
-    Player Portrait Path: {Portrait_path}
     '''
     return user_input
 
