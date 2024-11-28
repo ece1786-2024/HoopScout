@@ -1,4 +1,3 @@
-```markdown
 <div>
  <span>
   Pre-Game Scouting Report
@@ -102,5 +101,5 @@
 ## Defensive Strategy:
 - Deny interior passes and force mid-range attempts.
 - Strong off-ball defense to disrupt offensive positioning.
-```
+
 
