@@ -3,7 +3,7 @@
 </div>
 
 <div margin: 20px 0;>
-<img src="Data/Lakers/Anthony_Davis/Portrait.jpg" alt="Portrait" width="520" height="380" style="border: 1px solid #ddd; border-radius: 5px; padding: 5px;">
+<img src="../../../Data/Lakers/Anthony_Davis/Portrait.jpg" alt="Portrait" width="520" height="380" style="border: 1px solid #ddd; border-radius: 5px; padding: 5px;">
 </div>
 
 <div margin: 20px 0;>
