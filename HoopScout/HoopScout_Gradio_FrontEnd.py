@@ -7,7 +7,7 @@ import os
 import shutil
 
 # Initialize the OpenAI client
-client = OpenAI(api_key= "")
+client = OpenAI(api_key= "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")
 
 # Define the function to process inputs and generate output
 # def generate_pre_game_report(profile_json, asb_file, os_file, grs_file, ds_file, pt_file, pf_file, d_file):
