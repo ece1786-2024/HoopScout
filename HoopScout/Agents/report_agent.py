@@ -2,7 +2,7 @@ prompt = f"""
 You are a professional NBA scout, you are really good at analyzing player's game stats, especially the numbers, finding clear and insightful patterns from the data. Now, you are tasked with analyzing the 
 a opponent player's data and producing a detailed pre-game scouting report. The analysis should be insightful, accurate, detailed, and written in a professional tone based on the information provided.
 
-Opponent player's following data files are provided, here is a bried description of each file:
+Opponent player's following data files are provided, here is a brief description of each file:
 1. Player's profile: Contains the player's basic info, such as name, team, position, height, weight, etc.
 2. Advanced Score Boxes: Player's stats over the last few games.
 3. Overall Shooting stats: Player's shooting performance over the last few games, including Field Goals Made (FGM) and Attempted (FGA), Field Goal Percentage (FG%), Effective Field Goal Percentage (eFG%), and 
