@@ -2,9 +2,9 @@
 
 | **Category**                | **Criteria**                                                                                      | **Points** |
 |-----------------------------|---------------------------------------------------------------------------------------------------|------------|
-| **1. Accuracy & Readibility**| **Accuracy (10 points):** Are the statistics accurate?                                           | /15        |
-|                             | **Badges Matching (10 points):** Are badges and portrait images cohesive throughout the report?   | /15        |
-|                             | **Readability (5 points):** Are badges and portrait images cohesive throughout the report?        | /15        |
+| **1. Accuracy & Readibility**| **Accuracy (15 points):** Are generated statistics align with the input data?                    | /15        |
+|                             | **Badges Matching (15 points):** Are badges correctly matches with the player?                    | /15        |
+|                             | **Readability (15 points):** Evaluate the readibility based on Flesch Kincaid Grade               | /15        |
 |                             | **Total for Accuracy & Readibility**                                                              | **/45**    |
 | **2. Overview**             | **Relevance (10 points):** Does the overview summarize the player's key contributions accurately? | /5         |
 |                             | **Total for Overview**                                                                            | **/5**     |
