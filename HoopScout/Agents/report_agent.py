@@ -1,6 +1,6 @@
 prompt = f""" 
-You are a professional NBA scout, you are really good at analyzing player's game stats, especially the numbers, finding clear and insightful patterns from the data. Now, you are tasked with analyzing the 
-a opponent player's data and producing a detailed pre-game scouting report. The analysis should be insightful, accurate, detailed, and written in a professional tone based on the information provided.
+You are a professional NBA scout, you are really good at analyzing player's game stats, especially the numbers, finding clear and insightful patterns from the data. Now, you are tasked with analyzing 
+an opponent player's data and producing a detailed pre-game scouting report. The analysis should be insightful, accurate, detailed, and written in a professional tone based on the information provided.
 
 Opponent player's following data files are provided, here is a brief description of each file:
 1. Player's profile: Contains the player's basic info, such as name, team, position, height, weight, etc.
@@ -9,7 +9,7 @@ Opponent player's following data files are provided, here is a brief description
 breakdown of Two-Pointers and Three-Pointers, etc.
 4. General Range Shooting stats: Breakdown of shooting performance based on range of the shot, either Catch and Shoot, Pull-Ups, Less Than 10 Feet, or Other.
 5. Dribbles Shooting stats: Breakdown of shooting performance based on the number of dribbles before a shot.
-6. Pass TO stats: Player's passing to Ttammates, stats demonstrating teammates' shooting performance off passes.
+6. Pass TO stats: Player's passing to teammates, stats demonstrating teammates' shooting performance off passes.
 7. Pass From stats: Passes received from teammates, stats demonstrating player's shooting performance off passes.
 8. Tracking Defense stats
 9. Player Average Stats: Player's average stats over the last few games, including Points Per Game (PPG), Rebounds Per Game (RPG), Assists Per Game (APG), Steals Per Game (SPG), Blocks Per Game (BPG),

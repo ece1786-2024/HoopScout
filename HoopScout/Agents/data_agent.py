@@ -56,8 +56,6 @@ def team_data_processing(roster_pth, asb_pth, os_pth, grs_pth, ds_pth, pt_pth, p
     Stats_df = pd.read_csv(s_pth)
     Stats_string = Stats_df.to_string(index=False)
 
-    AVG_stats = average_stats(Advanced_Score_Boxes_df)
-
     return Roster_string, Advanced_Score_Boxes_string, Overall_Shooting_string, General_Range_Shooting_string, Dribbles_Shooting_string, Pass_To_string, Pass_From_string, Stats_string
 
 

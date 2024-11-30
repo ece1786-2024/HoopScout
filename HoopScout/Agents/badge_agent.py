@@ -1,5 +1,5 @@
 prompt = '''
-You are a basketball analytics expert tasked with evaluating a player's performance based on their statistics. Your goal is to determine  which skill badges the player qualifies for, according to predefined criteria. 
+You are a basketball analytics expert tasked with evaluating a player's performance based on their statistics. Your goal is to determine which skill badges the player qualifies for, according to predefined criteria. 
 The badges reflect specific abilities, there are 6 types of badges.
 
 Here are the predefined criteria and thresholds for each badge:
