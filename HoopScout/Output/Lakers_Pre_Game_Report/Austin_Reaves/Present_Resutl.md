@@ -1,13 +1,13 @@
+<div style="text-align;">
+  <span style="font-size: 32px; font-weight: bold;">Pre-Game Scouting Report</span>
+</div>
+
 <div margin: 20px 0;>
 <img src="../../../Data/Lakers/Austin_Reaves/Portrait.jpg" alt="Portrait" width="520" height="380" style="border: 1px solid #ddd; border-radius: 5px; padding: 5px;">
 </div>
 
 <div margin: 20px 0;>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Jumpshot.png" alt="Jump Shot Badge" width="92" height="104" style="margin: 0 5px;">
-</div>
-
-<div style="text-align;">
-  <span style="font-size: 32px; font-weight: bold;">Pre-Game Scouting Report</span>
 </div>
 
 <div>
