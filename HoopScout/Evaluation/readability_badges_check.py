@@ -2,8 +2,8 @@ import textstat
 import pandas as pd
 
 
-readibility_prompt = ''' 
-Extract the text from the given markdown format report output, so later readibility of this text can be checked.
+readability_prompt = ''' 
+Extract the text from the given markdown format report output, so later readability of this text can be checked.
           
 For example if the markdown format report output is:
 <div style="text-align:center;">
@@ -117,18 +117,18 @@ Double-team in the post to challenge lower percentage shots.
 Box out and limit his second-chance points from rebounds.
 '''
 
-def create_readibility_check_input(html_output):
-    user_input = f''' Extract the relevant text from the given markdown format report output, so later readibility of this text can be checked.
+def create_readability_check_input(html_output):
+    user_input = f''' Extract the relevant text from the given markdown format report output, so later readability of this text can be checked.
     {html_output}
     '''
     return user_input
 
-def flesch_kincaid_grade_readibility_check(client_key, user_input):
+def flesch_kincaid_grade_readability_check(client_key, user_input):
     client = client_key
     response = client.chat.completions.create(
     model="gpt-4o",
     messages=[
-            {"role": "system", "content": readibility_prompt},
+            {"role": "system", "content": readability_prompt},
             {"role": "user", "content": user_input}]
     )
 

@@ -1,5 +1,5 @@
 prompt = """
-You are a professional NBA analyst that is really good at extracting key insights and important information from player's scouting reports. Given the detailed scouting report of an opponent player, your task is to generate 
+You are a professional NBA analyst that is really good at extracting key insights and important information from player's scouting reports. Given the detailed scouting report of a opponent player, your task is to generate 
 a simplified version of the report, in the purpose of providing quick and accurate insights to the players before the game. The simplified pre-game scouting report should extract the most critical and actionable points from 
 the original report, limit each section to concise bullet points or sentences, ensuring clarity and professional tone. Prioritize what is most impactful for gameplay.
 
@@ -28,6 +28,44 @@ In addition, you should help to match the given badges of the player with the co
 - if player has Passing Badge, the image path should be "https://upload.wikimedia.org/wikipedia/commons/7/74/Dimer.png"
 Please strictly follow the image path format above with the corresponding badges.
 
+Here are the predefined criteria and thresholds for each badge:
+
+* Defense Badge
+Defensive Impact Differential (DIFF%): ≤ -5%
+Blocks Per Game (BLK): ≥ 1.5
+Steals Per Game (STL): ≥ 1.5 (alternative if BLK criterion isn't met)
+Minutes Played: ≥ 25 minutes per game
+
+* Jump Shot Badge
+Pull-Up Field Goal Percentage: ≥ 40%
+Frequency of Pull-Up Shots (Freq%): ≥ 20%
+Field Goal Percentage with 3+ Dribbles: ≥ 40%
+Points Per Game (PPG): ≥ 15
+
+* Catch and Shoot Badge
+Catch and Shoot FG%: ≥ 45%
+Catch and Shoot 3P%: ≥ 38%
+Frequency (Freq%): ≥ 40%
+Points from Catch and Shoot: ≥ 6 PPG
+Attempts Per Game: ≥ 3
+
+* Inside Scorer Badge
+FG% Less Than 10 Feet: ≥ 60%
+Frequency of Shots Less Than 10 Feet: ≥ 50%
+Points in the Paint Per Game: ≥ 10 PPG
+Free Throw Attempts Per Game (FTA): ≥ 5
+Points Per Game (PPG): ≥ 15
+
+* Passing Badge
+Assists Per Game (APG): ≥ 5
+Assist-to-Turnover Ratio (A/T): ≥ 2.5
+Turnovers Per Game (TOV): Below league average for primary ball-handlers
+
+* Rebounding Badge
+Rebounds Per Game (RPG): ≥ 8
+Offensive Rebounds Per Game (OREB): ≥ 2
+Defensive Rebounds Per Game (DREB): ≥ 6
+Minutes Played: ≥ 25 minutes per game
 
 Besides, you should provide me the report in markdown format, strictly following format below:
 
@@ -111,19 +149,41 @@ A brief summary of the player's recent trends, performance, and role in the team
 </ul>
 """
 
+def create_report_input(profile_pth, asb_pth, os_pth, grs_pth, ds_pth, pt_pth, pf_pth, d_pth, avg_stats):
+    user_input = f'''
+    Given the opponent player's information and stats, please generate a pre-game scouting report.
 
-def create_pre_game_report_input(player_report, player_badges):
-    user_input = f''' 
-    Here is the scouting report and badges for player based on his recent performance. Please generate a simplified version for quick insights.
+    Player's profile:
+    {profile_pth}
 
-    Player Report: {player_report}
+    Advanced Score Boxes:
+    {asb_pth}
 
-    Player Badges: {player_badges}
+    Overall Shooting stats: 
+    {os_pth}
+
+    General Range Shooting stats: 
+    {grs_pth}
+
+    Dribbles Shooting stats: 
+    {ds_pth}
+
+    Pass TO stats: 
+    {pt_pth}
+
+    Pass From stats: 
+    {pf_pth}
+
+    Tracking Defense stats: 
+    {d_pth}
+
+    Player Average Stats:
+    {avg_stats}
     '''
     return user_input
 
 
-def generate_pre_game_report(client_key, user_input):
+def generate_report(client_key, user_input):
     client = client_key
     response = client.chat.completions.create(
     model="gpt-4o",
@@ -131,6 +191,6 @@ def generate_pre_game_report(client_key, user_input):
             {"role": "system", "content": prompt},
             {"role": "user", "content": user_input}]
     )
-
+    
     reply = response.choices[0].message.content.strip()
     return reply
