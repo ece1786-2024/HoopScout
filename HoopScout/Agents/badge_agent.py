@@ -13,7 +13,9 @@ Minutes Played: ≥ 25 minutes per game
 * Jump Shot Badge
 Pull-Up Field Goal Percentage: ≥ 40%
 Frequency of Pull-Up Shots (Freq%): ≥ 20%
-Field Goal Percentage with 3+ Dribbles: ≥ 40%
+Field Goal Frequency with 3-6 Dribbles: ≥ 20% & Percentage: ≥ 40%
+or
+Field Goal Frequency with 3-6 Dribbles: ≥ 15% & Percentage: ≥ 35%
 Points Per Game (PPG): ≥ 15
 
 * Catch and Shoot Badge
