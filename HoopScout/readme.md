@@ -6,7 +6,6 @@
 5. ```HoopScout_single_prompt``` Include a single prompt test file.
 6. ```HoopScout_team``` Include the code to generate team report.
 7. ```Output``` Include the pre-game reports for all 16 players.
-8. 
 
 # How to run (Gradio)
 0. Make sure the OpenAI key is valid before preceding.
