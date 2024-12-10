@@ -9,6 +9,7 @@
 8. 
 
 # How to run (Gradio)
+0. Make sure the OpenAI key is valid before preceding.
 1. Clone the project into local
 2. ```python3 HoopScout_Gradio_FrontEnd.py``` to open a local web server
 3. Open a browser, go to ```http://127.0.0.1:7860```
